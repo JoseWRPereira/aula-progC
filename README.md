@@ -14,4 +14,7 @@ Bons estudos!
 
 
 * [Aula 01 - Estrutura básica de programação em Linguagem C]
-([Slides](https://github.com/JoseWRPereira/aula-seldi-basicoProgC/blob/master/01-estruturaBasicaProgC.pdf?raw=true))
+([Slides](https://github.com/JoseWRPereira/aula-seldi-basicoProgC/blob/master/progC-01.pdf?raw=true))
+
+* [Aula 02 - Funções, Organização do projeto, Diagramas]
+([Slides](https://github.com/JoseWRPereira/aula-seldi-basicoProgC/blob/master/progC-01.pdf?raw=true))
